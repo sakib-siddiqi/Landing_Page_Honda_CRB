@@ -1,3 +1,22 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+/* ===Honda colors start*/
+.honda-color-1{
+    background: #264653;
+}
+.honda-color-2{
+    background: #E76F51;
+}
+/* ===Honda colors end*/
+/* ===font waights start */
+.honda-f-bold{
+    font-weight:600;
+}
+.honda-f-light{
+    font-weight:300;
+}
+.honda-star{
+    color: #E77C40;
+}
+/* ===font waights end */
