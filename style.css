@@ -25,8 +25,9 @@
 
 /* ===font waights end */
 .honda-star{
-    color: #E77C40;
+    color: #E77C40 !important;
 }
+
 /* font size */
 .honda-16px{
     font-size: 16px;
@@ -37,4 +38,16 @@
 /* grayscale */
 .gray-img{
     filter: grayscale(100%);
+}
+/* section gap */
+section{
+    margin-top: 64px;
+}
+/* client's pic */
+.honda-client-pic{
+    width: 150px;
+}
+/* border */
+.honda-border{
+    border-color: #DEDEDE;
 }
