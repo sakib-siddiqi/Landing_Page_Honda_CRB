@@ -58,3 +58,13 @@ section{
 .honda-line-h-2{
     line-height: 26px;
 }
+/* extra */
+.accordion-item {
+    border: 2px solid #E0E0E0;
+    border-radius: 6px;
+
+}
+.accordion-item:not(:first-of-type) {
+    border: 2px solid #E0E0E0;
+    border-radius: 6px;
+}
