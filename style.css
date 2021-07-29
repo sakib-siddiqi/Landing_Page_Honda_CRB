@@ -27,9 +27,14 @@
 .honda-star{
     color: #E77C40;
 }
+/* font size */
 .honda-16px{
     font-size: 16px;
 }
 .honda-36px{
     font-size: 36px;
+}
+/* grayscale */
+.gray-img{
+    filter: grayscale(100%);
 }
