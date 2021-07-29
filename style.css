@@ -8,15 +8,22 @@
 .honda-color-2{
     background: #E76F51;
 }
+.honda-gray{
+    color: #E0E0E0;
+}
 /* ===Honda colors end*/
 /* ===font waights start */
 .honda-f-bold{
     font-weight:600;
 }
+.honda-f-md{
+    font-weight:500;
+}
 .honda-f-light{
     font-weight:300;
 }
+
+/* ===font waights end */
 .honda-star{
     color: #E77C40;
 }
-/* ===font waights end */
