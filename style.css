@@ -51,3 +51,10 @@ section{
 .honda-border{
     border-color: #DEDEDE;
 }
+/* line height */
+.honda-line-h-1{
+    line-height: 54px;
+}
+.honda-line-h-2{
+    line-height: 26px;
+}
