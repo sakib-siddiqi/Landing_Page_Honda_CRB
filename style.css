@@ -8,8 +8,30 @@
 .honda-color-2{
     background: #E76F51;
 }
+.honda-btn{
+    transition: 0.2s;
+}
+.honda-btn:hover{
+background: #c95c41;
+transform: translateX(5px);
+}
+.honda-btn:focus{
+background: #b3533c;
+}
 .honda-gray{
     color: #E0E0E0;
+}
+.honda-outline{
+    border-radius: 1000px;
+    border: 2px solid #E76F51;
+    color: #E76F51;
+    background: transparent;
+}
+.honda-outline:hover{
+    border-radius: 1000px;
+    border: 2px solid #E76F51;
+    color: #ffffff;
+    background: #E76F51;
 }
 /* ===Honda colors end*/
 /* ===font waights start */
@@ -34,6 +56,9 @@
 }
 .honda-36px{
     font-size: 36px;
+}
+.honda-64px{
+    font-size: 64px;
 }
 /* grayscale */
 .gray-img{
